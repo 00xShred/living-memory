@@ -1,9 +1,5 @@
 # Living Memory ~ a gift to my gf <3
 
-<p align="center">
-  <img src="./img.png" width="210" alt="dashboard" />
-</p>
-
 ## Why?
 
 I wanted a way to connect to my gf without relying on whatsapp or instagram and all of the ready to buy screens either came with an app or was missing one of the features I imagined. So I decided to buy a small e-ink display, the LilyGo Screen, which comes with the ESP32S3, and the freedom to try and put anything on it.
